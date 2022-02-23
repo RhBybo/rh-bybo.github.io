@@ -3,6 +3,8 @@
 
 body {
   color: #eee;
+  width: 1024px;
+  justify-content: center;
 }
 
 p {
@@ -266,5 +268,4 @@ footer a {
 
 footer nav a:hover{
   border-bottom: 1px solid white;
-
 }
